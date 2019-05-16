@@ -6,3 +6,4 @@ fucntion Get-Something {
     #>
     Write-Output 'something even better'
 }
+Write-Output "word"
