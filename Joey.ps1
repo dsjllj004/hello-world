@@ -1,4 +1,4 @@
-Write-Output "Hi Dave"
+Write-Output "Hello Dave"
 
 fucntion Get-Something {
     <#
